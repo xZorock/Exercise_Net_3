@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Retrofit API</string>
+    <string name="String1">%s</string>
+</resources>
